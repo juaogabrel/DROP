@@ -1,0 +1,201 @@
+            body {
+                margin: 0;
+                height: 100vh;
+            }
+            
+            .logotipo {
+                position: absolute;
+                left: 50px;
+                top: 10px;
+            }
+            
+            .background {
+                background-color: #3543fe;
+                height: 150px;
+                width: 250px;
+                position: absolute;
+                left: 50px;
+                bottom: 50%;
+                top: 150px;
+                border-radius: 20px;
+                padding: 7px;
+                padding-top: 30px;
+                box-shadow: -5px 5px 7px rgb(48, 47, 47);
+            }
+            
+            #texto {
+                position: absolute;
+                bottom: 10px;
+                color: white;
+                font-size: 20px;
+                font-family: 'PT Sans';
+                text-shadow: -2px 2px 2px rgb(48, 47, 47);
+                right: 2.5px;
+                margin-left: 10px;
+            }
+            
+            #background2 {
+                background-color: #3543fe;
+                height: 150px;
+                width: 250px;
+                position: absolute;
+                left: 50px;
+                bottom: 50%;
+                top: 400px;
+                border-radius: 20px;
+                padding: 7px;
+                padding-top: 30px;
+                box-shadow: -5px 5px 7px rgb(48, 47, 47);
+            }
+            
+            #texto2 {
+                position: absolute;
+                bottom: 10px;
+                color: white;
+                font-size: 20px;
+                font-family: 'PT Sans';
+                text-shadow: -2px 2px 2px rgb(48, 47, 47);
+                right: 2.5px;
+                margin-left: 10px;
+            }
+            
+            #hamburguer {
+                position: relative;
+                text-align: center;
+                right: 225px;
+                top: 51px;
+            }
+            
+            #motoboy {
+                position: absolute;
+                left: 150px;
+                top: 700px;
+                display: inline;
+                right: 100px;
+            }
+            
+            #delivery {
+                position: absolute;
+                left: 175px;
+                top: 820px;
+                display: inline;
+                font-size: 20px;
+                font-family: 'PT Sans';
+                color: #3543fe;
+            }
+            
+            #celular {
+                position: absolute;
+                left: 42%;
+                top: 737px;
+            }
+            
+            #pedido {
+                position: absolute;
+                left: 47%;
+                top: 820px;
+                display: inline;
+                font-size: 20px;
+                font-family: 'PT Sans';
+                color: #3543fe;
+            }
+            
+            #comida {
+                position: absolute;
+                left: 72%;
+                top: 695px;
+            }
+            
+            #comida2 {
+                position: absolute;
+                left: 74.5%;
+                top: 820px;
+                display: inline;
+                font-size: 20px;
+                font-family: 'PT Sans';
+                color: #3543fe;
+            }
+            
+            #background_login {
+                position: absolute;
+                background: #3543fe;
+                width: 150px;
+                height: 28px;
+                right: 15%;
+                top: 51px;
+                border-radius: 30px;
+            }
+            
+            #cadastrese {
+                position: absolute;
+                bottom: -10px;
+                color: white;
+                font-size: 15px;
+                font-family: 'PT Sans';
+                right: 2.5px;
+                margin-left: 10px;
+                left: 19px;
+            }
+            
+            #background_login:hover {
+                background-color: #1a1e58;
+            }
+            
+            #login1 {
+                position: absolute;
+                left: 1050px;
+                top: 20%;
+                font-size: 20px;
+                font-family: 'PT Sans';
+                color: #3543fe;
+            }
+            
+            #login {
+                position: absolute;
+                left: 1000px;
+                top: 251px;
+                border: none;
+                background: none;
+                outline: none;
+                color: aliceblue;
+                font-family: 'PT Sans';
+            }
+            
+            #senha {
+                position: absolute;
+                left: 1000px;
+                top: 313px;
+                border: none;
+                background: none;
+                outline: none;
+                color: aliceblue;
+                font-family: 'PT Sans';
+            }
+            
+            #login2 {
+                background: #1a1e58;
+                height: 40px;
+                width: 200px;
+                position: absolute;
+                left: 978px;
+                bottom: 347px;
+                border-radius: 30px;
+                padding: none;
+            }
+            
+            #senha2 {
+                background: #1a1e58;
+                height: 40px;
+                width: 200px;
+                position: absolute;
+                left: 978px;
+                bottom: 285px;
+                border-radius: 30px;
+                padding: none;
+            }
+            
+            #cachorroquente {
+                position: absolute;
+                left: 90px;
+                bottom: -95px;
+            }
